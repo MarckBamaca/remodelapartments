@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Examples
 sections:
   - type: hero_section
     title: Pricing
