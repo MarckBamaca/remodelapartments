@@ -28,8 +28,8 @@ seo:
       relativeUrl: true
 template: page
 ---
-We are a team of experienced and knowledgeable home remodelers with **more than 25 years of experience** handling all kinds of projects small and large. 
+We are a team of experienced and knowledgeable home remodelers with **more than 25 years of experience** handling all kinds of projects small and large.
 
-We are here to provide a service in quality unmatched with our competitors, and strive for the best quality and service.  We understand the stress of time management, where time is off the essence, especially in our current day and age where tenants expect quick turn around.  We work together with you to optimize workflows, and understand your needs and use cases and tailor your remodeling needs on a use case basis. We make sure to provide your property with a fresh and renewed appearance that will last for years.
+We are here to provide a service in quality unmatched with our competitors, and strive for the best quality there is to offer.  We understand the stress of time management, where time is off the essence, especially in our current day and age. Your tenants expect quick turn around and we work hard to fulfill that need.  We work together with you to optimize workflows, and understand your needs and use cases and tailor your remodeling needs on a use case basis. We make sure to provide your property with a fresh and renewed appearance that will last for years.
 
 ![Our team](/images/team.jpg)
