@@ -19,12 +19,12 @@ sections:
           ### Starting at $500 a unit
 
 
-          Common upgrades are:
+          Upgrades include:
 
 
           *   Upgraded kitchen cabinet faces, countertop and hardware
 
-          *   Upgraded sink, faucet and garbage disposal. 
+          *   Upgraded sink, faucet and garbage disposal.
 
           *   Upgraded Ceiling fans, upgraded LED lights color calibrated to
           each room
