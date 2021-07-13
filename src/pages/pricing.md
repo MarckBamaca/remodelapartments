@@ -48,7 +48,7 @@ sections:
           * Up to 5 devices
         content_align: left
         actions:
-          - label: Start with Family
+          - label: View Examples
             url: /thank-you
             style: primary
         actions_align: left
