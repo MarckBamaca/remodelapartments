@@ -33,7 +33,7 @@ sections:
           bathroom fans
 
           *   Upgraded apartment light switches and outlets all throughout
-        content_align: left
+        content_align: center
         actions:
           - label: View Examples
             url: /thank-you
