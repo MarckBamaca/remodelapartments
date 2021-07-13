@@ -38,7 +38,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Heavy Remodel
-        subtitle: For you and your family members
+        subtitle: See a drastic change in the units
         title_align: left
         content: |-
           ---
