@@ -11,7 +11,7 @@ sections:
     grid_items:
       - title: Light Remodel
         subtitle: Just for you
-        title_align: left
+        title_align: center
         content: >
           ***
 
