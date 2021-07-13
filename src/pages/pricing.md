@@ -12,18 +12,27 @@ sections:
       - title: Light Remodel
         subtitle: Just for you
         title_align: left
-        content: |-
-          ---
+        content: >
+          ***
 
-          ### $9
 
-          per month, billed yearly
+          ### Starting at $500 a unit
 
-          * Up to 3 calendar integrations
-          * Up to 2 task lists
-          * Color coded notifications
-          * Up to 2 devices
-          * Productivity reporting
+
+          Common upgrades are:
+
+
+          *   Upgraded kitchen cabinet faces, countertop and hardware
+
+          *   Upgraded sink, faucet and garbage disposal. 
+
+          *   Upgraded Ceiling fans, upgraded LED lights color calibrated to
+          each room
+
+          *   Upgraded Bathroom countertop, sink and shower faucets, and
+          bathroom fans
+
+          *   Upgraded apartment light switches and outlets all throughout
         content_align: left
         actions:
           - label: View Examples
