@@ -16,7 +16,7 @@ sections:
           ***
 
 
-          Starting at $500 a unit
+          ###### Starting at $500 a unit
 
 
           Upgrades include:
