@@ -61,8 +61,8 @@ sections:
         actions_width: full-width
       - title: External Apartment Complex additions
         subtitle: >-
-          Upgrades to clubhouse & common areas when potential clients first
-          visit
+          Upgrades to clubhouse, common areas, and amenities when potential
+          clients first visit
         title_align: left
         content: |-
           ---
