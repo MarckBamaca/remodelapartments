@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Light Remodel
-        subtitle: Just for you
+        subtitle: See a noticable change in the rooms
         title_align: center
         content: >
           ***
