@@ -59,7 +59,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: External Apartment Complex additions
+      - title: Commons Remodel
         subtitle: >-
           Upgrades to clubhouse, common areas, and amenities when potential
           clients first visit
