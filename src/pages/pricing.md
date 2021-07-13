@@ -26,7 +26,7 @@ sections:
           * Productivity reporting
         content_align: left
         actions:
-          - label: Start with Personal
+          - label: View Examples
             url: /thank-you
             style: primary
         actions_align: left
