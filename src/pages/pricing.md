@@ -70,7 +70,7 @@ sections:
           * Task delegation
         content_align: left
         actions:
-          - label: Start with Business
+          - label: View Examples
             url: /thank-you
             style: primary
         actions_align: left
