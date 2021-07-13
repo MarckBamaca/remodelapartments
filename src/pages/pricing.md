@@ -59,7 +59,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Complex additions
+      - title: External Apartment Complex additions
         subtitle: For your entire team
         title_align: left
         content: |-
