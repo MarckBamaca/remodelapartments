@@ -28,19 +28,7 @@ seo:
       relativeUrl: true
 template: page
 ---
-
-We are a team of productivity nuts that love to get stuff done without the stress of time management. We work together to optimize workflows, understand use cases and set up our app to be the most productive and useful tool for us, internally, and for you.
+We are a team of experienced and knowledgeable home remodelers with more than 25 years of experience handling all kinds of projects small and large. We are here to provide a service in quality unmatched with our competitors, and strive for the best quality and service.  We understnad the stress of time management, where time is off the essence, especially in our current day and age where tenants expect quick turn around.  We work together with you to optimize workflows, and understand your needs and use cases and tailor your remodeling needs on a use case basis. We make sure to provide your property with a fresh and renewed appearance that will last for years. 
 
 ![Our team](/images/team.jpg)
 
-## Work Life Balance
-
-Our goal is for work and life to be controlled in one place, to help you maintain a zen state of mind.
-
-> "Tasks and deadlines should not control our time. We should control what when to pay attention to which task." -- Lorinda Mamo, Designer
-
-With App Land, we strive to make it clear and easy to follow a healthy routine of work effectiveness, collaboration, and also family time and social events.
-
-## We Value Your YOU Time
-
-Our team understands that life is a marathon, and it's super important to make sure you take care of YOU and your needs. This is why we try to remind our users to take time off, reward themselves after a job well done, and put down the phone every once in a while when there's nowhere you have to be, or nothing you need to do.
