@@ -34,7 +34,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Pricing",
+                "label": "Learn More",
                 "url": "/pricing",
                 "style": "primary"
             },
