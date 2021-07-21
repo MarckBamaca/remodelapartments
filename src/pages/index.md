@@ -8,7 +8,7 @@ sections:
       Many places age as the years go by and what was once nice slowly turns
       into something not so great... 
     actions:
-      - label: App Store
+      - label: Learn more
         url: /pricing
         style: primary
       - label: Google Play
