@@ -1,5 +1,5 @@
 ---
-title: remodelingTips
+title: Remodeling tips
 sections:
   - type: hero_section
     title: Remodeling Tips
