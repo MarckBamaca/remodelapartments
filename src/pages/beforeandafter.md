@@ -6,8 +6,8 @@ sections:
     grid_items:
       - title: Before
         title_align: center
-        content: |
-          ![](images/BeforeApt-14.jpg)![](images/BeforeApt-18.jpg)
+        content: >
+          ![](images/BeforeApt-14.jpg)![](images/BeforeApt-18.jpg)![](images/square-olive.jpg)
         content_align: left
         actions: []
         actions_align: left
