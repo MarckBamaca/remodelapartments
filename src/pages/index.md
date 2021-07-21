@@ -19,7 +19,7 @@ sections:
     padding_bottom: medium
     background_color: primary
   - type: grid_section
-    title: What makes us the prime choice?
+    title: Learn how we Remodel Apartments
     align: center
     grid_items:
       - title: Right When You Need It
