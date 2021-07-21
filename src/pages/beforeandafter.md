@@ -57,7 +57,7 @@ sections:
     form_layout: inline
     enable_card: true
     form_id: Contact
-    form_action: lorem-ipsum
+    form_action: Submit
     form_fields: []
     submit_label: lorem-ipsum
     align_vert: top
