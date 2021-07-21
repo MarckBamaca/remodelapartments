@@ -50,8 +50,8 @@ sections:
   - title: Get in contact
     title_align: left
     content: >
-      Reach out to use either through Email or Phone and will get right back to
-      you as soon as possible. 
+      Reach out to us through Email or Phone and will get right back to you as
+      soon as possible.
     content_align: left
     form_position: bottom
     form_width: fifty
