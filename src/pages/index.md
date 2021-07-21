@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Your apartment looks like this?
+    title: Look familiar?
     subtitle: Stop waiting and get it looking better today. We can help.
     content: >
       Many places age as the years go by and what was once nice slowly turns
