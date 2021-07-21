@@ -12,7 +12,7 @@ sections:
         url: /pricing
         style: primary
         icon_position: center
-        has_icon: true
+        has_icon: false
     image: images/BeforeApt-1.jpg
     image_alt: Hero section placeholder image
     media_position: left
