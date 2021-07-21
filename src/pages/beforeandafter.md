@@ -6,7 +6,7 @@ sections:
     grid_items:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        title_align: right
+        title_align: center
         content: |
           ![](images/BeforeApt-14.jpg)![](images/BeforeApt-18.jpg)
         content_align: left
