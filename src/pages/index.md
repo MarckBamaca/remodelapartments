@@ -11,9 +11,6 @@ sections:
       - label: Learn more
         url: /pricing
         style: primary
-      - label: Google Play
-        url: /pricing
-        style: secondary
     image: images/BeforeApt-1.jpg
     image_alt: Hero section placeholder image
     media_position: left
