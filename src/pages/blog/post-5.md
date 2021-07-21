@@ -1,5 +1,5 @@
 ---
-title: 6 Tips to Achieve Work Life Balance
+title: Tips for remodeling a bathroom (budget friendly)
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
