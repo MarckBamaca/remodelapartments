@@ -7,7 +7,6 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
-    background_image: images/background.jpg
   - type: grid_section
     grid_items:
       - title: Light Remodel
