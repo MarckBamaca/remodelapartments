@@ -48,7 +48,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: Get in contact
-    subtitle: lorem-ipsum
     title_align: left
     content: >-
       ## Lorem ipsum
