@@ -46,7 +46,7 @@
         ],
         "has_anncmnt": true,
         "anncmnt_content": "Start your remodeling consultation today! [**Learn More**](/pricing/)\n",
-        "anncmnt_align": "left",
+        "anncmnt_align": "center",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
