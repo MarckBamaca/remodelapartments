@@ -24,9 +24,10 @@ sections:
     grid_items:
       - title: Precise and Timely
         title_align: left
-        content: >-
-          See all of your appointments, work meetings and life events in one
-          place so you know exactly where you need to be at any given time.
+        content: >
+          ![](images/AfterApt-27.jpg)See all of your appointments, work meetings
+          and life events in one place so you know exactly where you need to be
+          at any given time.
         content_align: left
         actions:
           - label: Learn More
