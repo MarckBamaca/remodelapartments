@@ -2,7 +2,7 @@
 title: Remodeling tips
 sections:
   - type: hero_section
-    title: Blog
+    title: Remodeling Tips
     subtitle: The optional subtitle
     align: center
     padding_top: medium
