@@ -20,8 +20,9 @@ sections:
         type: grid_item
       - title: After
         title_align: center
-        content: |
-          ## ![](images/AfterApt.jpg)![](images/AfterApt-27.jpg)
+        content: >
+          ##
+          ![](images/AfterApt.jpg)![](images/AfterApt-27.jpg)![](images/smart-saturn.jpg)
         content_align: left
         actions: []
         actions_align: left
