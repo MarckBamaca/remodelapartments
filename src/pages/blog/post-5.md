@@ -8,10 +8,7 @@ categories:
   - src/data/categories/tutorials.yaml
 tags:
   - src/data/tags/tips.yaml
-excerpt: >-
-  Setting realistic expectations for yourself and your colleagues, putting down
-  your phone for 30 minutes a day, and the "no cellphone in bed" rule  — what's
-  the best way to get to Zen?
+excerpt: Setting realistic expectations for your bathroom remodel on a budget!
 thumb_image: images/AfterApt-27.jpg
 thumb_image_alt: Post 5 placeholder image
 image: images/AfterApt-27.jpg
