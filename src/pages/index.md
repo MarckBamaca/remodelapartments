@@ -19,7 +19,7 @@ sections:
     padding_bottom: medium
     background_color: primary
   - type: grid_section
-    title: What's Great About App Land?
+    title: What makes us the prime choice?
     align: center
     grid_items:
       - title: Right When You Need It
