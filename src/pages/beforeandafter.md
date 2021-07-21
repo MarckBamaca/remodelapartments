@@ -9,7 +9,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: left
         media_width: fifty
-        align: left
+        align: right
         type: feature
         image: images/great-yam.jpg
     feature_padding_vert: medium
