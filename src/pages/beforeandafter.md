@@ -55,7 +55,7 @@ sections:
     form_position: right
     form_width: fifty
     form_layout: inline
-    enable_card: true
+    enable_card: false
     form_id: Contact
     form_action: Submit
     form_fields:
