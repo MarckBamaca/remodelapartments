@@ -19,7 +19,7 @@ sections:
     media_width: sixty
     align: left
     padding_top: medium
-    padding_bottom: large
+    padding_bottom: medium
     background_color: primary
   - type: grid_section
     title: What's Great About App Land?
