@@ -13,7 +13,7 @@ sections:
         type: feature
         image: images/great-yam.jpg
     feature_padding_vert: small
-    align: left
+    align: center
     padding_top: medium
     padding_bottom: medium
     has_border: false
