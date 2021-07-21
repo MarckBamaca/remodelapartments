@@ -4,7 +4,7 @@ sections:
   - title: Before & After
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Before
         subtitle: lorem-ipsum
         title_align: center
         content: |
