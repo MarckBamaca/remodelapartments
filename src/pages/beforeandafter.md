@@ -3,8 +3,7 @@ title: BeforeAndAfter
 sections:
   - title: Before / After
     features:
-      - title: lorem-ipsum
-        content: |
+      - content: |
           ## ![](images/AfterApt.jpg)
         actions: []
         image_alt: lorem-ipsum
