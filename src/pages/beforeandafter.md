@@ -5,17 +5,8 @@ sections:
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >
-          ## ![](images/AfterApt.jpg)Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+        content: |
+          ## ![](images/AfterApt.jpg)
         actions: []
         image_alt: lorem-ipsum
         media_position: left
