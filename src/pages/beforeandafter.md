@@ -5,7 +5,6 @@ sections:
     actions: []
     grid_items:
       - title: Before
-        subtitle: lorem-ipsum
         title_align: center
         content: |
           ![](images/BeforeApt-14.jpg)![](images/BeforeApt-18.jpg)
