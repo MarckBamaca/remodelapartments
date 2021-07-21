@@ -31,7 +31,7 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: |
-          *   ![](images/BeforeApt-14.jpg)
+          ![](images/BeforeApt-14.jpg)![](images/BeforeApt-18.jpg)
         content_align: left
         actions: []
         actions_align: left
