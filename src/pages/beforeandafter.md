@@ -12,7 +12,6 @@ sections:
         align: left
         type: feature
         image: images/great-yam.jpg
-        title: Bathrooms
     feature_padding_vert: medium
     align: center
     padding_top: medium
