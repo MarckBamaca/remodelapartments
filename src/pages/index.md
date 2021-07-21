@@ -22,7 +22,7 @@ sections:
     title: Learn how we Remodel Apartments
     align: center
     grid_items:
-      - title: Right When You Need It
+      - title: Precise and on time
         title_align: left
         content: >-
           See all of your appointments, work meetings and life events in one
