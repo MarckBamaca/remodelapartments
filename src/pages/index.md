@@ -4,8 +4,6 @@ sections:
   - type: hero_section
     title: Look familiar?
     subtitle: 'Stop waiting, and get started today. We can help.'
-    content: |
-      Many places look old as the years go by don't let yours be one of them ...
     actions:
       - label: Learn more
         url: /pricing
