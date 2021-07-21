@@ -76,7 +76,7 @@ sections:
         type: form_field
     submit_label: Submit
     align_vert: top
-    padding_top: none
+    padding_top: small
     padding_bottom: small
     has_border: false
     background_color: none
