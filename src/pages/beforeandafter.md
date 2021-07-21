@@ -30,7 +30,7 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
+        content: >
           ## Lorem ipsum
 
 
@@ -38,9 +38,9 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet![](images/BeforeApt-14.jpg)
         content_align: left
         actions: []
         actions_align: left
