@@ -20,7 +20,7 @@ sections:
         type: grid_item
       - title: After
         subtitle: lorem-ipsum
-        title_align: left
+        title_align: center
         content: |
           ## ![](images/AfterApt.jpg)![](images/AfterApt-27.jpg)
         content_align: left
