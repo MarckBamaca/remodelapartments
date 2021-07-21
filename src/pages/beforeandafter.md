@@ -53,7 +53,7 @@ sections:
       Reach out to use either through Email or Phone and will get right back to
       you as soon as possible. 
     content_align: left
-    form_position: right
+    form_position: bottom
     form_width: fifty
     form_layout: inline
     enable_card: false
