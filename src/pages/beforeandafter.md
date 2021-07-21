@@ -49,8 +49,9 @@ sections:
     type: grid_section
   - title: Get in contact
     title_align: left
-    content: |
-      1.  Submit a form to have one of us reach out to you for your needs!
+    content: >
+      Reach out to use either through Email or Phone and will get right back to
+      you as soon as possible. 
     content_align: left
     form_position: right
     form_width: fifty
