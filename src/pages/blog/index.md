@@ -1,5 +1,5 @@
 ---
-title: Remodeling FAQ
+title: Remodeling FAQs
 sections:
   - type: hero_section
     title: Blog
