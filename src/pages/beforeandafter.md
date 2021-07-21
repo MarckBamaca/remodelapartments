@@ -50,7 +50,7 @@ sections:
   - title: Get in contact
     title_align: left
     content: |
-      *   Submit a form to have one of us reach out to you for your needs!
+      1.  Submit a form to have one of us reach out to you for your needs!
     content_align: left
     form_position: bottom
     form_width: fifty
