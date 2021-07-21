@@ -49,17 +49,8 @@ sections:
     type: grid_section
   - title: Get in contact
     title_align: left
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      *   Submit a form to have one of us reach out to you for your needs!
     content_align: left
     form_position: bottom
     form_width: fifty
