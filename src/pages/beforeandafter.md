@@ -1,7 +1,7 @@
 ---
 title: BeforeAndAfter
 sections:
-  - title: lorem-ipsum
+  - title: Before & After
     actions: []
     grid_items:
       - title: lorem-ipsum
