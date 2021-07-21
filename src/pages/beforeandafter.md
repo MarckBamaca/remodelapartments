@@ -3,7 +3,7 @@ title: BeforeAndAfter
 sections:
   - title: Before / After
     features: []
-    feature_padding_vert: large
+    feature_padding_vert: medium
     align: center
     padding_top: medium
     padding_bottom: medium
