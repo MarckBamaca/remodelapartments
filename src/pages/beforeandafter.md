@@ -19,7 +19,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: After
-        subtitle: lorem-ipsum
         title_align: center
         content: |
           ## ![](images/AfterApt.jpg)![](images/AfterApt-27.jpg)
