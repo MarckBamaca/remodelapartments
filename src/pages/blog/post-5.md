@@ -8,7 +8,7 @@ categories:
   - src/data/categories/tutorials.yaml
 tags:
   - src/data/tags/tips.yaml
-excerpt: Setting realistic expectations for your bathroom remodel on a budget!
+excerpt: Setting realistic expectations for your bathroom remodel on a budget
 thumb_image: images/AfterApt-27.jpg
 thumb_image_alt: Post 5 placeholder image
 image: images/AfterApt-27.jpg
