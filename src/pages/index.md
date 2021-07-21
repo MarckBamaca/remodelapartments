@@ -20,7 +20,6 @@ sections:
     background_color: primary
   - type: grid_section
     title: What's Great About App Land?
-    subtitle: In a Glance
     align: center
     grid_items:
       - title: Right When You Need It
