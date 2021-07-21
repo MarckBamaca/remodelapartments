@@ -4,7 +4,6 @@ sections:
   - title: Before / After
     features:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: |
           ## ![](images/AfterApt.jpg)
         actions: []
