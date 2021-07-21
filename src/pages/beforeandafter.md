@@ -52,7 +52,7 @@ sections:
     content: |
       1.  Submit a form to have one of us reach out to you for your needs!
     content_align: left
-    form_position: bottom
+    form_position: right
     form_width: fifty
     form_layout: stacked
     enable_card: false
