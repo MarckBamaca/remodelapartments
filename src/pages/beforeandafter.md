@@ -1,7 +1,7 @@
 ---
 title: BeforeAndAfter
 sections:
-  - title: lorem-ipsum
+  - title: Before / After
     features: []
     feature_padding_vert: medium
     align: center
