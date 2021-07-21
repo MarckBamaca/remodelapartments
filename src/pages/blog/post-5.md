@@ -1,7 +1,7 @@
 ---
 title: Tips for remodeling a bathroom (budget friendly)
 subtitle: Things to consider when remodeling your bathroom
-date: '2020-07-02'
+date: '2020-07-22'
 categories:
   - src/data/categories/tutorials.yaml
 tags:
