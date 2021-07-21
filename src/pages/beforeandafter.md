@@ -22,6 +22,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/great-yam.jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
