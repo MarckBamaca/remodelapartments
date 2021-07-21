@@ -46,7 +46,7 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: |
-          ## ![](images/AfterApt.jpg)
+          ## ![](images/AfterApt.jpg)![](images/AfterApt-27.jpg)
         content_align: left
         actions: []
         actions_align: left
