@@ -51,7 +51,7 @@ sections:
   - type: features_section
     features:
       - title: Most Remodels are Chaotic
-        subtitle: For true work-life balance
+        subtitle: Don't always go as planned...
         content: >-
           Stop juggling between calendar apps and productivity tools — from now
           on all your appointments and meetings appear in one place.
