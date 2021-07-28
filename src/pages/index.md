@@ -1,6 +1,32 @@
 ---
 title: Home
 sections:
+  - type: cta_section
+    title: Regain Control of your To Dos
+    content: >-
+      Download App Land now and connect with all your calendars, project
+      management tools and task lists — it doesn't get easier than this!
+    actions:
+      - label: App Store
+        url: /pricing
+        style: primary
+      - label: Google Play
+        url: /pricing
+        style: secondary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        type: action
+    actions_position: bottom
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+    background_image: images/background.jpg
+    background_image_repeat: repeat
+    background_image_size: cover
+    background_image_opacity: 10
   - type: hero_section
     title: Look familiar?
     subtitle: 'Stop waiting, and get started today. We can help.'
@@ -56,32 +82,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-  - type: cta_section
-    title: Regain Control of your To Dos
-    content: >-
-      Download App Land now and connect with all your calendars, project
-      management tools and task lists — it doesn't get easier than this!
-    actions:
-      - label: App Store
-        url: /pricing
-        style: primary
-      - label: Google Play
-        url: /pricing
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        type: action
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image: images/background.jpg
-    background_image_repeat: repeat
-    background_image_size: cover
-    background_image_opacity: 10
   - type: blog_feed_section
     title: Blog and Updates
     actions:
@@ -102,6 +102,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
+  - null
 seo:
   title: Stackbit App Theme
   description: The preview of the App theme
