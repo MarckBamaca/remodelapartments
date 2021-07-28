@@ -17,7 +17,7 @@ sections:
     align: left
     padding_top: medium
     padding_bottom: medium
-    background_color: primary
+    background_color: none
   - type: cta_section
     title: Regain Control of your To Dos
     content: >-
