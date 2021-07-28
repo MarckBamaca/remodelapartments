@@ -151,7 +151,6 @@ sections:
     background_image_opacity: 10
   - type: blog_feed_section
     title: Blog and Updates
-    subtitle: What's Up?
     actions:
       - label: View All
         url: /blog
