@@ -31,7 +31,7 @@ sections:
       - label: Learn more
         url: /pricing
         style: primary
-      - label: Google Play
+      - label: Contact
         url: /pricing
         style: secondary
         has_icon: false
