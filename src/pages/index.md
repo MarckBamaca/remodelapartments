@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Look familiar?
-    subtitle: 'Stop waiting, and get started today. We can help.'
+    subtitle: 'Stop waiting, and get started today.'
     actions:
       - label: Learn more
         url: /pricing
