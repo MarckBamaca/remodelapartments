@@ -102,7 +102,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - null
 seo:
   title: Stackbit App Theme
   description: The preview of the App theme
