@@ -10,7 +10,6 @@ sections:
         style: primary
         icon_position: center
         has_icon: false
-    image: images/BeforeApt-1.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: sixty
