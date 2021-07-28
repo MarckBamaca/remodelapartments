@@ -52,9 +52,9 @@ sections:
     features:
       - title: Most Remodels are Chaotic
         subtitle: Don't always go as planned...
-        content: >-
-          Stop juggling between calendar apps and productivity tools — from now
-          on all your appointments and meetings appear in one place.
+        content: >
+          Sidestep all the headaches that go along with doing remodeling and let
+          professionals with years of experience take care of you.
         actions:
           - label: Learn More
             url: /pricing
