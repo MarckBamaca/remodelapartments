@@ -50,7 +50,7 @@ sections:
     background_image_opacity: 10
   - type: features_section
     features:
-      - title: Syncronized Calendar
+      - title: Most Remodels are Chaotic
         subtitle: For true work-life balance
         content: >-
           Stop juggling between calendar apps and productivity tools — from now
