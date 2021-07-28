@@ -18,7 +18,6 @@ sections:
     padding_bottom: medium
     background_color: primary
     background_image: images/BeforeApt-1.jpg
-    image: images/BeforeApt-1.jpg
   - type: cta_section
     title: Regain Control of your remodel
     content: >-
