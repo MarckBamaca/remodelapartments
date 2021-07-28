@@ -14,7 +14,7 @@ sections:
     media_position: left
     media_width: sixty
     align: left
-    padding_top: medium
+    padding_top: large
     padding_bottom: large
     background_color: primary
     background_image: images/BeforeApt-1.jpg
