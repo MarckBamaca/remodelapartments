@@ -31,7 +31,7 @@ sections:
       - label: Learn more
         url: /pricing
         style: primary
-      - label: Contact
+      - label: Contact us
         url: /pricing
         style: secondary
         has_icon: false
