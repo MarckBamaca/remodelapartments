@@ -28,7 +28,7 @@ sections:
     content: |
       Most remodels are a headache to manage but it doesn't have to be this way.
     actions:
-      - label: App Store
+      - label: Learn more
         url: /pricing
         style: primary
       - label: Google Play
