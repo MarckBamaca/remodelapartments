@@ -1,6 +1,23 @@
 ---
 title: Home
 sections:
+  - type: hero_section
+    title: Look familiar?
+    subtitle: 'Stop waiting, and get started today. We can help.'
+    actions:
+      - label: Learn more
+        url: /pricing
+        style: primary
+        icon_position: center
+        has_icon: false
+    image: images/BeforeApt-1.jpg
+    image_alt: Hero section placeholder image
+    media_position: left
+    media_width: sixty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    background_color: primary
   - type: cta_section
     title: Regain Control of your To Dos
     content: >-
@@ -27,23 +44,6 @@ sections:
     background_image_repeat: repeat
     background_image_size: cover
     background_image_opacity: 10
-  - type: hero_section
-    title: Look familiar?
-    subtitle: 'Stop waiting, and get started today. We can help.'
-    actions:
-      - label: Learn more
-        url: /pricing
-        style: primary
-        icon_position: center
-        has_icon: false
-    image: images/BeforeApt-1.jpg
-    image_alt: Hero section placeholder image
-    media_position: left
-    media_width: sixty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    background_color: primary
   - type: features_section
     features:
       - title: Syncronized Calendar
