@@ -25,9 +25,8 @@ sections:
     background_image_opacity: 0
   - type: cta_section
     title: Regain Control of your remodel
-    content: >-
-      Download App Land now and connect with all your calendars, project
-      management tools and task lists — it doesn't get easier than this!
+    content: |
+      Most remodels are a headache to manage but it doesn't have to be this way.
     actions:
       - label: App Store
         url: /pricing
