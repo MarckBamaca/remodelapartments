@@ -16,7 +16,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: primary
     background_image: images/BeforeApt-1.jpg
     background_image_size: cover
     background_image_position: right center
