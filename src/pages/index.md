@@ -22,7 +22,7 @@ sections:
     background_image_position: right center
     background_image_repeat: no-repeat
     has_border: false
-    background_image_opacity: 0
+    background_image_opacity: 99
   - type: cta_section
     title: Regain Control of your remodel
     content: >-
