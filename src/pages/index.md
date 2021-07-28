@@ -7,7 +7,7 @@ sections:
     actions:
       - label: Learn more
         url: /pricing
-        style: secondary
+        style: primary
         icon_position: center
         has_icon: false
     image_alt: Hero section placeholder image
