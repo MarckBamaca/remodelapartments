@@ -60,18 +60,18 @@ sections:
           Upgrades to clubhouse, common areas, and amenities when potential
           clients first visit
         title_align: left
-        content: |-
-          ---
+        content: >
+          ***
 
-          ### $39
 
-          per month, billed yearly
+          ### Starting at custom rates 
 
-          * Unlimited calendars
-          * Unlimited task list integrations
-          * Project-based color coding
-          * Scheduled notifications
-          * Task delegation
+
+          *   Will update commons areas on where prospective clients will first
+          view the property
+
+
+          *   Updating the outdoor pool/grill areas with Gazebos or firepits
         content_align: left
         actions:
           - label: View Examples
