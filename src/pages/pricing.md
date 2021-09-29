@@ -44,8 +44,7 @@ sections:
           ***
 
 
-          Starting at $500 a unit, services include:
-
+          **Starting at $500 a unit, services include:**
 
 
           *   Upgraded kitchen cabinet faces, countertop and hardware
