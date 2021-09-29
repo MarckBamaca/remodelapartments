@@ -40,18 +40,29 @@ sections:
       - title: Heavy Remodel
         subtitle: See a drastic change in the units
         title_align: left
-        content: |-
-          ---
+        content: >
+          ***
 
-          ### $19
 
-          per month, billed yearly
+          Starting at $500 a unit, services include:
 
-          * Shared calendar integrations
-          * Unlimited task lists
-          * Synchronized reminders
-          * Shared badgets
-          * Up to 5 devices
+
+
+          *   Upgraded kitchen cabinet faces, countertop and hardware
+
+
+          *   Upgraded sink, faucet and garbage disposal.
+
+
+          *   Upgraded Ceiling fans, upgraded LED lights color calibrated to
+          each room
+
+
+          *   Upgraded Bathroom countertop, sink and shower faucets, and
+          bathroom fans
+
+
+          *   Upgraded apartment light switches and outlets all throughout
         content_align: left
         actions:
           - label: View Examples
