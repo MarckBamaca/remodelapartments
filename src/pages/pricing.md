@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Pricing
-    subtitle: Different plans for your different needs
+    subtitle: Different plans for your unique needs
     align: center
     padding_top: large
     padding_bottom: small
