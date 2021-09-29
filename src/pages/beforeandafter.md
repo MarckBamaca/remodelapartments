@@ -22,7 +22,7 @@ sections:
         title_align: center
         content: >
           ##
-          ![](images/AfterApt.jpg)![](images/AfterApt-27.jpg)![](images/smart-saturn.jpg)
+          ![](images/AfterApt.jpg)![](images/AfterApt-27.jpg)![](images/smart-saturn.jpg)![](images/AfterApt-1.jpg)
         content_align: left
         actions: []
         actions_align: left
