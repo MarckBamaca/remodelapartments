@@ -64,11 +64,11 @@ sections:
           ***
 
 
-          ### Starting at custom rates 
+          ###### Starting at custom rates
 
 
-          *   Will update commons areas on where prospective clients will first
-          view the property
+          Will update commons areas on where prospective clients will first view
+          the property
 
 
           *   Updating the outdoor pool/grill areas with Gazebos or firepits
