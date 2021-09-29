@@ -24,7 +24,7 @@ sections:
     has_border: false
     background_image_opacity: 0
   - type: cta_section
-    title: Regain Control of your remodel
+    title: Regain Control of your Remodel
     content: |
       Most remodels are a headache to manage but it doesn't have to be this way.
     actions:
