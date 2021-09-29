@@ -40,28 +40,14 @@ sections:
       - title: Heavy Remodel
         subtitle: See a drastic change in the units
         title_align: left
-        content: >
+        content: |
           ***
-
 
           ###### Starting at $500 a unit, services include:
 
+          *   Included services of Light Remodel
 
-          *   Upgraded kitchen cabinet faces, countertop and hardware
-
-
-          *   Upgraded sink, faucet and garbage disposal.
-
-
-          *   Upgraded Ceiling fans, upgraded LED lights color calibrated to
-          each room
-
-
-          *   Upgraded Bathroom countertop, sink and shower faucets, and
-          bathroom fans
-
-
-          *   Upgraded apartment light switches and outlets all throughout
+          *   Changing fixtures on all rooms and living areas
         content_align: left
         actions:
           - label: View Examples
